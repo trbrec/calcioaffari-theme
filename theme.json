@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "760px",
+      "wideSize": "1180px"
+    },
+    "color": {
+      "palette": [
+        {"slug": "ink", "name": "Inchiostro", "color": "#0b1f18"},
+        {"slug": "green", "name": "Verde", "color": "#0b7a53"},
+        {"slug": "lime", "name": "Lime", "color": "#d7ff77"},
+        {"slug": "paper", "name": "Carta", "color": "#f4f7f5"},
+        {"slug": "white", "name": "Bianco", "color": "#ffffff"}
+      ]
+    },
+    "typography": {
+      "fluid": true,
+      "fontFamilies": [
+        {"slug": "sans", "name": "Sans", "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"}
+      ]
+    }
+  }
+}
